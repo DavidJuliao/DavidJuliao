@@ -3,10 +3,10 @@
 - 🔭 Hoje trabalho com Desenvolvimento web com foco em Java ...
 - 🌱 Estou estudando Docker, MongDb, Angular ...
  
-<div style="display: inline_block">
+<div >
   <a href="https://github.com/DavidJuliao">
   <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=DavidJuliao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="210em" style="float:left;" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidJuliao&layout=compact&langs_count=7&theme=dark"/>
+  <img height="230em" style="float:left;" width="331" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidJuliao&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
 <div style="display: inline_block"><br>
